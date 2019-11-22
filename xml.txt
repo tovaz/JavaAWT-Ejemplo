@@ -1,0 +1,446 @@
+<Rusia2018>
+		<FaseGrupos>
+			<GrupoA>
+				<Jornada1>
+					<Partido>
+						<Equipo1>Rusia</Equipo1>
+						<Equipo2>Arabia Saudita</Equipo2>
+						<Fecha>14/06/2018</Fecha>
+						<Hora>9:00 am</Hora>
+						<Ciudad>Mosc�</Ciudad>
+						<Estadio>Luzhniki</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Egipto</Equipo1>
+						<Equipo2>Uruguay</Equipo2>
+						<Fecha>15/06/2018</Fecha>
+						<Hora>6:00 am</Hora>
+						<Ciudad>Ekaterimburgo</Ciudad>
+						<Estadio>Central de Ekaterimburgo</Estadio>
+					</Partido>
+				</Jornada1>
+				<Jornada2>
+					<Partido>
+						<Equipo1>Rusia</Equipo1>
+						<Equipo2>Egipto</Equipo2>
+						<Fecha>19/06/2018</Fecha>
+						<Hora>12:00 pm</Hora>
+						<Ciudad>San Petersburgo</Ciudad>
+						<Estadio>Krestovskysky</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Uruguay</Equipo1>
+						<Equipo2>Arabia Saudita</Equipo2>
+						<Fecha>20/06/2018</Fecha>
+						<Hora>09:00 am</Hora>
+						<Ciudad>Rostov</Ciudad>
+						<Estadio>Rostov Arena</Estadio>
+					</Partido>
+				</Jornada2>
+			</GrupoA>
+			<GrupoB>
+				<Jornada1>
+					<Partido>
+						<Equipo1>Marruecos</Equipo1>
+						<Equipo2>Ir�n</Equipo2>
+						<Fecha>15/06/2018</Fecha>
+						<Hora>9:00 am</Hora>
+						<Ciudad>San Petersburgo</Ciudad>
+						<Estadio>Central de Ekaterimburgo</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Portugal</Equipo1>
+						<Equipo2>Espa�a</Equipo2>
+						<Fecha>15/06/2018</Fecha>
+						<Hora>12:00 pm</Hora>
+						<Ciudad>Sochi</Ciudad>
+						<Estadio>Fisth</Estadio>
+					</Partido>
+				</Jornada1>
+				<Jornada2>
+					<Partido>
+						<Equipo1>Iran</Equipo1>
+						<Equipo2>Espa�a</Equipo2>
+						<Fecha>20/06/2018</Fecha>
+						<Hora>12:00 pm</Hora>
+						<Ciudad>Kazan</Ciudad>
+						<Estadio>Kazan Arena</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Portugal</Equipo1>
+						<Equipo2>Marruecos</Equipo2>
+						<Fecha>20/06/2018</Fecha>
+						<Hora>06:00 am</Hora>
+						<Ciudad>Moscu</Ciudad>
+						<Estadio>Luzhniki</Estadio>
+					</Partido>
+				</Jornada2>
+			</GrupoB>
+			<GrupoC>
+				<Jornada1>
+						<Partido>
+							<Equipo1>Francia</Equipo1>
+							<Equipo2>Australia</Equipo2>
+							<Fecha>16/06/2018</Fecha>
+							<Hora>04:00 am</Hora>
+							<Ciudad>Kazan</Ciudad>
+							<Estadio>Kazan Arena</Estadio>
+						</Partido>
+						<Partido>
+							<Equipo1>Peru</Equipo1>
+							<Equipo2>Dinamarca</Equipo2>
+							<Fecha>16/06/2018</Fecha>
+							<Hora>10:00 am</Hora>
+							<Ciudad>Saransk</Ciudad>
+							<Estadio>Mordovia Arena</Estadio>
+						</Partido>
+				</Jornada1>
+				<Jornada2>
+					<Partido>
+						<Equipo1>Dinamarca</Equipo1>
+						<Equipo2>Australia</Equipo2>
+						<Fecha>21/06/2018</Fecha>
+						<Hora>09:00 am</Hora>
+						<Ciudad>Samara</Ciudad>
+						<Estadio>Samara Arena</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Francia</Equipo1>
+						<Equipo2>Per�</Equipo2>
+						<Fecha>21/06/2018</Fecha>
+						<Hora>06:00 am</Hora>
+						<Ciudad>Ekaterimburgo</Ciudad>
+						<Estadio>Central Ekaterimburgo</Estadio>
+					</Partido>
+				</Jornada2>
+			</GrupoC>
+			<GrupoD>
+				<Jornada1>
+						<Partido>
+							<Equipo1>Argentina</Equipo1>
+							<Equipo2>Islandia</Equipo2>
+							<Fecha>16/06/2018</Fecha>
+							<Hora>07:00 am</Hora>
+							<Ciudad>Moscu</Ciudad>
+							<Estadio>Spartak</Estadio>
+						</Partido>
+						<Partido>
+							<Equipo1>Croacia</Equipo1>
+							<Equipo2>Nigeria</Equipo2>
+							<Fecha>16/06/2018</Fecha>
+							<Hora>1:00 pm</Hora>
+							<Ciudad>Kaliningrado</Ciudad>
+							<Estadio>Kaliningrado</Estadio>
+						</Partido>
+				</Jornada1>
+				<Jornada2>
+					<Partido>
+						<Equipo1>Argentina</Equipo1>
+						<Equipo2>Croacia</Equipo2>
+						<Fecha>21/06/2018</Fecha>
+						<Hora>12:00 pm</Hora>
+						<Ciudad>Nizhniy Novogord</Ciudad>
+						<Estadio>Nizhniy</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Nigeria</Equipo1>
+						<Equipo2>Islandia</Equipo2>
+						<Fecha>22/06/2018</Fecha>
+						<Hora>09:00 am</Hora>
+						<Ciudad>Volgogrado</Ciudad>
+						<Estadio>Volgogrado Arena</Estadio>
+					</Partido>
+				</Jornada2>
+			</GrupoD>
+			<GrupoE>
+				<Jornada1>
+						<Partido>
+							<Equipo1>Brasil</Equipo1>
+							<Equipo2>Suiza</Equipo2>
+							<Fecha>17/06/2018</Fecha>
+							<Hora>12:00 pm</Hora>
+							<Ciudad>Rostov</Ciudad>
+							<Estadio>Rostov Arena</Estadio>
+						</Partido>
+						<Partido>
+							<Equipo1>Costa Rica</Equipo1>
+							<Equipo2>Serbia</Equipo2>
+							<Fecha>17/06/2018</Fecha>
+							<Hora>06:00 am</Hora>
+							<Ciudad>Samara</Ciudad>
+							<Estadio>Samara Arena</Estadio>
+						</Partido>
+				</Jornada1>
+				<Jornada2>
+					<Partido>
+						<Equipo1>Brasil</Equipo1>
+						<Equipo2>Costa Rica</Equipo2>
+						<Fecha>22/06/2018</Fecha>
+						<Hora>06:00 am</Hora>
+						<Ciudad>San Petersburgo</Ciudad>
+						<Estadio>Krestovskysky</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Serbia</Equipo1>
+						<Equipo2>Suiza</Equipo2>
+						<Fecha>22/06/2018</Fecha>
+						<Hora>12:00 pm</Hora>
+						<Ciudad>Kaliningrado</Ciudad>
+						<Estadio>Kaliningrado</Estadio>
+					</Partido>
+				</Jornada2>
+			</GrupoE>
+			<GrupoF>
+				<Jornada1>
+						<Partido>
+							<Equipo1>Alemania</Equipo1>
+							<Equipo2>Mexico</Equipo2>
+							<Fecha>17/06/2018</Fecha>
+							<Hora>09:00 am</Hora>
+							<Ciudad>Moscu</Ciudad>
+							<Estadio>Luzhniki</Estadio>
+						</Partido>
+						<Partido>
+							<Equipo1>Suecia</Equipo1>
+							<Equipo2>Corea</Equipo2>
+							<Fecha>18/06/2018</Fecha>
+							<Hora>6:00 am</Hora>
+							<Ciudad>Nizhniy Novogord</Ciudad>
+							<Estadio>Nizhniy</Estadio>
+						</Partido>
+				</Jornada1>
+				<Jornada2>
+					<Partido>
+						<Equipo1>Alemania</Equipo1>
+						<Equipo2>Suecia</Equipo2>
+						<Fecha>23/06/2018</Fecha>
+						<Hora>09:00 am</Hora>
+						<Ciudad>Sochi</Ciudad>
+						<Estadio>Fisth</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Corea</Equipo1>
+						<Equipo2>Mexico</Equipo2>
+						<Fecha>23/06/2018</Fecha>
+						<Hora>12:00 pm</Hora>
+						<Ciudad>Rostov</Ciudad>
+						<Estadio>Rostov Arena</Estadio>
+					</Partido>
+				</Jornada2>
+			</GrupoF>
+			<GrupoG>
+				<Jornada1>
+						<Partido>
+							<Equipo1>Belgica</Equipo1>
+							<Equipo2>Panama</Equipo2>
+							<Fecha>18/06/2018</Fecha>
+							<Hora>09:00 am</Hora>
+							<Ciudad>Sochi</Ciudad>
+							<Estadio>Fisth</Estadio>
+						</Partido>
+						<Partido>
+							<Equipo1>Tunez</Equipo1>
+							<Equipo2>Inglaterra</Equipo2>
+							<Fecha>18/06/2018</Fecha>
+							<Hora>12:00 pm</Hora>
+							<Ciudad>Volgogrado</Ciudad>
+							<Estadio>Volgogrado Arena</Estadio>
+						</Partido>
+				</Jornada1>
+				<Jornada2>
+					<Partido>
+						<Equipo1>Belgica</Equipo1>
+						<Equipo2>Tunez</Equipo2>
+						<Fecha>23/06/2018</Fecha>
+						<Hora>06:00 am</Hora>
+						<Ciudad>Moscu</Ciudad>
+						<Estadio>Spartak</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Inglaterra</Equipo1>
+						<Equipo2>Panama</Equipo2>
+						<Fecha>24/06/2018</Fecha>
+						<Hora>06:00 am</Hora>
+						<Ciudad>Nizhniy Novogord</Ciudad>
+						<Estadio>Nizhniy</Estadio>
+					</Partido>
+				</Jornada2>
+			</GrupoG>
+			<GrupoH>
+				<Jornada1>
+						<Partido>
+							<Equipo1>Colombia</Equipo1>
+							<Equipo2>Jap�n</Equipo2>
+							<Fecha>19/06/2018</Fecha>
+							<Hora>09:00 am</Hora>
+							<Ciudad>Saransk</Ciudad>
+							<Estadio>Mordovia Arena</Estadio>
+						</Partido>
+						<Partido>
+							<Equipo1>Polonia</Equipo1>
+							<Equipo2>Senegal</Equipo2>
+							<Fecha>19/06/2018</Fecha>
+							<Hora>06:00 am</Hora>
+							<Ciudad>Moscu</Ciudad>
+							<Estadio>Spartak</Estadio>
+						</Partido>
+				</Jornada1>
+				<Jornada2>
+					<Partido>
+						<Equipo1>Japon</Equipo1>
+						<Equipo2>Senegal</Equipo2>
+						<Fecha>24/06/2018</Fecha>
+						<Hora>09:00 am</Hora>
+						<Ciudad>Ekaterimburgo</Ciudad>
+						<Estadio>Ekaterimburgo Arena</Estadio>
+					</Partido>
+					<Partido>
+						<Equipo1>Polonia</Equipo1>
+						<Equipo2>Colombia</Equipo2>
+						<Fecha>24/06/2018</Fecha>
+						<Hora>12:00 pm</Hora>
+						<Ciudad>Kazan</Ciudad>
+						<Estadio>Kazan Arena</Estadio>
+					</Partido>
+				</Jornada2>
+			</GrupoH>
+		</FaseGrupos>
+		<Octavos>
+			<Partido>
+				<Equipo1>Uruguay</Equipo1>
+				<Equipo2>Portugal</Equipo2>
+				<Fecha>30/06/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>Sochi</Ciudad>
+				<Estadio>Fisth</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Francia</Equipo1>
+				<Equipo2>Argentina</Equipo2>
+				<Fecha>30/06/2018</Fecha>
+				<Hora>09:00 am</Hora>
+				<Ciudad>Kazan</Ciudad>
+				<Estadio>Kazan Arena</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Espa�a</Equipo1>
+				<Equipo2>Rusia</Equipo2>
+				<Fecha>01/07/2018</Fecha>
+				<Hora>08:00 am</Hora>
+				<Ciudad>Moscu</Ciudad>
+				<Estadio>Luzhniki</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Croacia</Equipo1>
+				<Equipo2>Dinamarca</Equipo2>
+				<Fecha>01/07/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>Nizhniy Novogord</Ciudad>
+				<Estadio>Nizhniy</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Brasil</Equipo1>
+				<Equipo2>Mexico</Equipo2>
+				<Fecha>02/07/2018</Fecha>
+				<Hora>08:00 am</Hora>
+				<Ciudad>Samara</Ciudad>
+				<Estadio>Samara Arena</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Belgica</Equipo1>
+				<Equipo2>Japon</Equipo2>
+				<Fecha>02/07/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>Rostov</Ciudad>
+				<Estadio>Rostov Arena</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Suecia</Equipo1>
+				<Equipo2>Suiza</Equipo2>
+				<Fecha>03/07/2018</Fecha>
+				<Hora>08:00 am</Hora>
+				<Ciudad>San Petersburgo</Ciudad>
+				<Estadio>Krestovskysky</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Colombia</Equipo1>
+				<Equipo2>Inglaterra</Equipo2>
+				<Fecha>03/07/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>Moscu</Ciudad>
+				<Estadio>Spartak</Estadio>
+			</Partido>
+		</Octavos>
+		<Cuartos>
+			<Partido>
+				<Equipo1>Uruguay</Equipo1>
+				<Equipo2>Francia</Equipo2>
+				<Fecha>06/07/2018</Fecha>
+				<Hora>08:00 am</Hora>
+				<Ciudad>Nizhniy Novogord</Ciudad>
+				<Estadio>Nizhniy</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Brasil</Equipo1>
+				<Equipo2>Belgica</Equipo2>
+				<Fecha>06/07/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>Kazan</Ciudad>
+				<Estadio>Kazan Arena</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Rusia</Equipo1>
+				<Equipo2>Croacia</Equipo2>
+				<Fecha>07/07/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>Sochi</Ciudad>
+				<Estadio>Fisth</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Suecia</Equipo1>
+				<Equipo2>Inglaterra</Equipo2>
+				<Fecha>07/07/2018</Fecha>
+				<Hora>08:00 am</Hora>
+				<Ciudad>Samara</Ciudad>
+				<Estadio>Samara Arena</Estadio>
+			</Partido>
+		</Cuartos>
+		<Semifinales>
+			<Partido>
+				<Equipo1>Francia</Equipo1>
+				<Equipo2>Belgica</Equipo2>
+				<Fecha>10/07/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>San Petersburgo</Ciudad>
+				<Estadio>Krestovsky</Estadio>
+			</Partido>
+			<Partido>
+				<Equipo1>Croacia</Equipo1>
+				<Equipo2>Inglaterra</Equipo2>
+				<Fecha>11/07/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>Moscu</Ciudad>
+				<Estadio>Luzhniki</Estadio>
+			</Partido>
+		</Semifinales>
+		<TercerPuesto>
+			<Partido>
+				<Equipo1>Belgica</Equipo1>
+				<Equipo2>Inglaterra</Equipo2>
+				<Fecha>14/07/2018</Fecha>
+				<Hora>08:00 am</Hora>
+				<Ciudad>San Petersburgo</Ciudad>
+				<Estadio>Krestovsky</Estadio>
+			</Partido>
+		</TercerPuesto>
+		<Final>
+			<Partido>
+				<Equipo1>Francia</Equipo1>
+				<Equipo2>Croacia</Equipo2>
+				<Fecha>15/07/2018</Fecha>
+				<Hora>12:00 pm</Hora>
+				<Ciudad>Moscu</Ciudad>
+				<Estadio>Luzhniki</Estadio>
+			</Partido>
+		</Final>
+</Rusia2018>
